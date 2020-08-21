@@ -1,0 +1,8 @@
+pandas>=0.25
+emoji
+numpy
+matplotlib
+seaborn
+pandas_profiling
+scikit-learn
+xgboost
